@@ -3,12 +3,3 @@ second line
 third line
 fouth line
 
-sixth line
-seventh line
-eighth line
-ninth line
-
-11th line
-12th line
-13th line
-14th line
